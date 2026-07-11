@@ -1,7 +1,7 @@
 # AI Image Recognition Chatbot
 ### Home Page
 
-![Home Page](./src/project_Screenshot.png)
+![Home Page](./src/Project_Screenshot.png)
 
 An AI-powered Image Recognition Chatbot built with **React**, **Google Gemini API**, and **Cloudinary**. Upload an image and receive an AI-generated description, detected objects, and scene analysis in seconds.
 
